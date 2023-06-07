@@ -21,10 +21,10 @@
 - [Diffusion Models on Graphs: Applications](#Diffusion-Models-on-Graphs:-Applications)
   - [Molecule Modeling](#Molecule-Modeling)
     - [Molecule Conformation Generation](#Molecule-Conformation-Generation)
-    - [Molecular Docking](#Molecule-Conformation-Generation)
+    - [Molecular Docking](#Molecule-Docking)
   - [Protein Modeling](#Protein-Modeling)
-    - [Protein Generation](#Molecule-Conformation-Generation)
-    - [Protein-ligand Complex Structure Predictiong](#Molecule-Conformation-Generation)
+    - [Protein Generation](#Protein-Generation)
+    - [Protein-ligand Complex Structure Predictiong](#Protein\--ligand-Complex-Structure-Predictiong)
 
 ## Generative Diffusion Models on Graph
 
