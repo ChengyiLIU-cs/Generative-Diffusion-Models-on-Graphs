@@ -17,6 +17,10 @@
     - [Protein Generation](#Protein-Generation)
     - [Protein-ligand Complex Structure Predictiong](#Protein-ligand-Complex-Structure-Predictiong)
 
+## Diffusion models on molecular and protein generations
+
+![Diffusion_models_on_molecular_and_protein_generations](assets/LLMs-0507-final.png)
+
 ## Generative Diffusion Models on Graph
 
 ### SMLD on Graphs
