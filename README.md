@@ -14,17 +14,17 @@
 ```
 
 ## Table of Contents
-- [Generative Diffusion Models on Graph](#Generative Diffusion Models on Graph)
-  - [SMLD on Graphs](#SMLD on Graphs)
-  - [DDPM on Graphs](#DDPM on Graphs)
-  - [SGM on Graphs](#SGM on Graphs)
-- [Diffusion Models on Graphs: Applications](#Diffusion Models on Graphs: Applications)
-  - [Molecule Modeling](#Molecule Modeling)
-    - [Molecule Conformation Generation](#Molecule Conformation Generation)
-    - [Molecular Docking](#Molecule Conformation Generation)
-  - [Protein Modeling](#Protein Modeling)
-    - [Protein Generation](#Molecule Conformation Generation)
-    - [Protein-ligand Complex Structure Predictiong](#Molecule Conformation Generation)
+- [Generative Diffusion Models on Graph](#Generative-Diffusion-Models-on-Graph)
+  - [SMLD on Graphs](#SMLD-on-Graphs)
+  - [DDPM on Graphs](#DDPM-on-Graphs)
+  - [SGM on Graphs](#SGM-on-Graphs)
+- [Diffusion Models on Graphs: Applications](#Diffusion-Models-on-Graphs:-Applications)
+  - [Molecule Modeling](#Molecule-Modeling)
+    - [Molecule Conformation Generation](#Molecule-Conformation-Generation)
+    - [Molecular Docking](#Molecule-Conformation-Generation)
+  - [Protein Modeling](#Protein-Modeling)
+    - [Protein Generation](#Molecule-Conformation-Generation)
+    - [Protein-ligand Complex Structure Predictiong](#Molecule-Conformation-Generation)
 
 ## Generative Diffusion Models on Graph
 
@@ -38,4 +38,12 @@
 
 ### Molecule Modeling
 
+#### Molecule Conformation Generation
+
+#### Molecular Docking
+
 ###  Molecule Modeling
+
+#### Protein Generation
+
+#### Protein-ligand Complex Structure Predictiong
