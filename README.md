@@ -37,6 +37,10 @@ ICML 2021. [[Paper](https://arxiv.org/abs/2105.03902)] [[Github](https://github.
 
 ### DDPM on Graphs
 
+**Diffusion Models for Graphs Benefit From Discrete State Spaces** \
+*Kilian Konstantin Haefeli, Karolis Martinkus, Nathanaël Perraudin, Roger Wattenhofer* \
+LoG 2022 and NeurIPS GLFrontiers 2022. [[Paper](https://arxiv.org/abs/2210.01549)] [[Github](https://github.com/kilian888/discrete_dppm_graphs)] \
+4 Oct 2022
 
 
 ### SGM on Graphs
