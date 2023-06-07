@@ -1,1 +1,1 @@
-# Generative-Diffusion-Models-on-Graphs
+# Generative Diffusion Models on Graphs: Methods and Applications
