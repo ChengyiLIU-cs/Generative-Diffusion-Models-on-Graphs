@@ -19,7 +19,7 @@
 
 ## Diffusion models on molecular and protein generations
 
-![Diffusion_models_on_molecular_and_protein_generations](assets/LLMs-0507-final.png)
+![Diffusion_models_on_molecular_and_protein_generations](Figure/Graph Diffusion.png)
 
 ## Generative Diffusion Models on Graph
 
