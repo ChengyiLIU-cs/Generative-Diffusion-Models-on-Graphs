@@ -24,7 +24,7 @@
     - [Molecular Docking](#Molecule-Docking)
   - [Protein Modeling](#Protein-Modeling)
     - [Protein Generation](#Protein-Generation)
-    - [Protein-ligand Complex Structure Predictiong](#Protein\--ligand-Complex-Structure-Predictiong)
+    - [Protein-ligand Complex Structure Predictiong](#Protein-ligand-Complex-Structure-Predictiong)
 
 ## Generative Diffusion Models on Graph
 
