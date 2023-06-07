@@ -21,7 +21,19 @@
 
 ### SMLD on Graphs
 
+**Permutation Invariant Graph Generation via Score-Based Generative Modeling** \
+*Chenhao Niu, Yang Song, Jiaming Song, Shengjia Zhao, Aditya Grover, Stefano Ermon* \
+AISTATS 2021. [[Paper](https://arxiv.org/abs/2003.00638)] [[Github](https://github.com/ermongroup/GraphScoreMatching)] \
+2 Mar 2020
+
+**Learning gradient fields for molecular conformation generation** \
+*Chence Shi, Shitong Luo, Minkai Xu, Jian Tang* \
+ICML 2021. [[Paper](https://arxiv.org/abs/2105.03902)] [[Github](https://github.com/DeepGraphLearning/ConfGF)] \
+9 May 2021
+
 ### DDPM on Graphs
+
+
 
 ### SGM on Graphs
 
