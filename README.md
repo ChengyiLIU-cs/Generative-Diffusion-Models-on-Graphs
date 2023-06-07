@@ -42,6 +42,10 @@ ICML 2021. [[Paper](https://arxiv.org/abs/2105.03902)] [[Github](https://github.
 LoG 2022 and NeurIPS GLFrontiers 2022. [[Paper](https://arxiv.org/abs/2210.01549)] [[Github](https://github.com/kilian888/discrete_dppm_graphs)] \
 4 Oct 2022
 
+**DiGress: Discrete Denoising diffusion for graph generation** \
+*Clement Vignac<sup>1</sup>, Igor Krawczuk<sup>1</sup>, Antoine Siraudin, Bohan Wang, Volkan Cevher, Pascal Frossard* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2209.14734)] [[Github](https://github.com/cvignac/digress)] \
+29 Sep 2022
 
 ### SGM on Graphs
 
