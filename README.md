@@ -59,6 +59,16 @@ IEEE ICDM 2022. [[Paper](https://arxiv.org/abs/2212.01842)] [[Github](https://gi
 ICML, 2022.  [[Paper](https://arxiv.org/abs/2202.02514)] [[Github](https://github.com/harryjo97/gdss)] \
 5 Feb 2022
 
+**Fast Graph Generative Model via Spectral Diffusion** \
+*Tianze Luo, Zhanfeng Mo, Sinno Jialin Pan* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2211.08892)] \
+16 Nov 2022
+
+**Score-based graph generative modeling with self-guided latent diffusion** \
+*Ling Yang, Zhilong Zhang, Wentao Zhang, and Shenda Hong* \
+OpenReview. [[Paper](https://openreview.net/forum?id=AykEgQNPJEK)] \
+02 Feb 2023
+
 ## Diffusion Models on Graphs: Applications
 
 ### Molecule Modeling
