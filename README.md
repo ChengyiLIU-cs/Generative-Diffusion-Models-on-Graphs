@@ -49,6 +49,16 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2209.14734)] [[Github](https://github.
 
 ### SGM on Graphs
 
+**GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation** \
+*Han Huang, Leilei Sun, Bowen Du, Yanjie Fu, Weifeng Lv* \
+IEEE ICDM 2022. [[Paper](https://arxiv.org/abs/2212.01842)] [[Github](https://github.com/graph-0/graphgdp)] \
+4 Dec 2022
+
+**Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations** \
+*Jaehyeong Jo, Seul Lee, Sung Ju Hwang* \
+ICML, 2022.  [[Paper](https://arxiv.org/abs/2202.02514)] [[Github](https://github.com/harryjo97/gdss)] \
+5 Feb 2022
+
 ## Diffusion Models on Graphs: Applications
 
 ### Molecule Modeling
