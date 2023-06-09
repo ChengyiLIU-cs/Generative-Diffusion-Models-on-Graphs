@@ -92,7 +92,7 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2203.02923)] [[Github](https://github.
 6 Mar 2022
 
 **Equivariant Diffusion for Molecule Generation in 3D** \
-** Emiel Hoogeboom, Vıctor Garcia Satorras, Clement Vignac, and Max Welling** \
+*Emiel Hoogeboom, Vıctor Garcia Satorras, Clement Vignac, and Max Welling* \
 ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
 31 Mar 2022
 
