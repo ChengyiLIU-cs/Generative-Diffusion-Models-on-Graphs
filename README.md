@@ -12,6 +12,7 @@
 - [Diffusion Models on Graphs: Applications](#Diffusion-Models-on-Graphs:-Applications)
   - [Molecule Modeling](#Molecule-Modeling)
     - [Molecule Conformation Generation](#Molecule-Conformation-Generation)
+      - [SMLD](#SMLD) 
     - [Molecular Docking](#Molecule-Docking)
   - [Protein Modeling](#Protein-Modeling)
     - [Protein Generation](#Protein-Generation)
@@ -74,6 +75,16 @@ OpenReview. [[Paper](https://openreview.net/forum?id=AykEgQNPJEK)] \
 ### Molecule Modeling
 
 #### Molecule Conformation Generation
+
+#### SMLD <a name="subdirectory1">
+
+**MDM: Molecular Diffusion Model for 3D Molecule Generation** \
+*Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong* \
+Submitted to AAAI'23. [[Paper](https://arxiv.org/abs/2209.05710)] \
+13 Sep 2022
+
+
+
 
 #### Molecular Docking
 
