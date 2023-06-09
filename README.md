@@ -12,7 +12,7 @@
 - [Diffusion Models on Graphs: Applications](#Diffusion-Models-on-Graphs:-Applications)
   - [Molecule Modeling](#Molecule-Modeling)
     - [Molecule Conformation Generation](#Molecule-Conformation-Generation)
-      - [SMLD](#SMLD1) 
+      - [SMLD](#SMLD) 
     - [Molecular Docking](#Molecule-Docking)
   - [Protein Modeling](#Protein-Modeling)
     - [Protein Generation](#Protein-Generation)
