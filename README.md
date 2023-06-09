@@ -76,7 +76,7 @@ OpenReview. [[Paper](https://openreview.net/forum?id=AykEgQNPJEK)] \
 
 #### Molecule Conformation Generation
 
-#### SMLD [SMLD1]
+#### [SMLD1]: SMLD 
 
 **MDM: Molecular Diffusion Model for 3D Molecule Generation** \
 *Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong* \
@@ -86,7 +86,7 @@ Submitted to AAAI'23. [[Paper](https://arxiv.org/abs/2209.05710)] \
 
 
 
-#### Molecular Docking
+#### Molecule Docking
 
 ###  Molecule Modeling
 
