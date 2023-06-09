@@ -13,6 +13,7 @@
   - [Molecule Modeling](#Molecule-Modeling)
     - [Molecule Conformation Generation](#Molecule-Conformation-Generation)
       - [SMLD](#smld1) 
+      - [DDPM](#ddpm1)
     - [Molecular Docking](#Molecule-Docking)
   - [Protein Modeling](#Protein-Modeling)
     - [Protein Generation](#Protein-Generation)
@@ -83,7 +84,7 @@ OpenReview. [[Paper](https://openreview.net/forum?id=AykEgQNPJEK)] \
 Submitted to AAAI'23. [[Paper](https://arxiv.org/abs/2209.05710)] \
 13 Sep 2022
 
-
+#### <a id="ddpm1"> DDPM </a>
 
 
 #### Molecule Docking
