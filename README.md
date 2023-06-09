@@ -76,7 +76,7 @@ OpenReview. [[Paper](https://openreview.net/forum?id=AykEgQNPJEK)] \
 
 #### Molecule Conformation Generation
 
-#### SMLD <name="SMLD1">
+#### <a name="SMLD1"></a> SMLD
 
 **MDM: Molecular Diffusion Model for 3D Molecule Generation** \
 *Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong* \
