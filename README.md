@@ -86,6 +86,15 @@ Submitted to AAAI'23. [[Paper](https://arxiv.org/abs/2209.05710)] \
 
 #### <a id="ddpm1"> DDPM </a>
 
+**GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation** \
+*Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang* \
+ICLR 2022. [[Paper](https://arxiv.org/abs/2203.02923)] [[Github](https://github.com/MinkaiXu/GeoDiff)] \
+6 Mar 2022
+
+**Equivariant Diffusion for Molecule Generation in 3D** \
+** Emiel Hoogeboom, Vıctor Garcia Satorras, Clement Vignac, and Max Welling** \
+ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
+31 Mar 2022
 
 #### Molecule Docking
 
