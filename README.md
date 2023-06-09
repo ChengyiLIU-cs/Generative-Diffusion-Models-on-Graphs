@@ -23,6 +23,8 @@
       - [DDPM](#ddpm3)
       - [SGM](#sgm3)
     - [Protein-ligand Complex Structure Predictiong](#Protein-ligand-Complex-Structure-Predictiong)
+      - [DDPM](#ddpm4)
+      - [SGM](#sgm4)
 
 ## Diffusion models on molecular and protein generations
 
@@ -187,14 +189,32 @@ NeurIPS 2022. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.10.499510
 
 **Protein structure generation via folding diffusion** \
 *Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, James Y. Zou, Alex X. Lu, Ava P. Amini* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15611)] [[Github](https://arxiv.org/abs/2209.15611)]\
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15611)] [[Github]([https://arxiv.org/abs/2209.15611](https://www.nature.com/articles/s43588-023-00440-3))]\
 30 Sep 2022
 
 #### <a id="sgm3"> SGM </a>
 
-
+**Score-based generative modeling for de novo protein design** \
+*Jin Sub Lee, Jisun Kim & Philip M. Kim* \
+Nature Computational Science 2023. [[Paper](https://arxiv.org/abs/2209.15611)] [[Github](https://arxiv.org/abs/2209.15611)]\
+04 May 2023
 
 #### Protein-ligand Complex Structure Predictiong
+
+#### <a id="ddpm4"> DDPM </a>
+
+**End-to-end protein–ligand complex structure generation with diffusion-based generative models** \
+*Shuya Nakata, Yoshiharu Mori, and Shigenori Tanaka* \
+BMC Bioinformatics 2023. [[Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05354-5)] \
+22 December 2022
+
+#### <a id="sgm4"> SGM </a>
+
+**Dynamic-backbone protein-ligand structure prediction with multiscale generative diffusion models**
+**tate-specific protein-ligand complex structure prediction with a multi-scale deep generative model (new version)**
+*Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F Miller III, and Anima Anandkumar* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.15171)] \
+22 December 2022
 
 > If you find our survey useful for your research, please cite the following paper:
 ```
